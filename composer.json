@@ -1,0 +1,19 @@
+{
+    "name": "savioasr/curso-design-patterns-com-php-pt1",
+    "authors": [
+        {
+            "name": "Sávio Rodrigues",
+            "email": "savioasrodrigues@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SON\\Db\\": "src",
+            "App\\": "app"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    }
+}
